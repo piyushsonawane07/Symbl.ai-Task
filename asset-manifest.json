@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Symbl.ai-Task/static/css/main.898bc19b.chunk.css",
-    "main.js": "/Symbl.ai-Task/static/js/main.ec69c173.chunk.js",
-    "main.js.map": "/Symbl.ai-Task/static/js/main.ec69c173.chunk.js.map",
-    "runtime-main.js": "/Symbl.ai-Task/static/js/runtime-main.d3e03286.js",
-    "runtime-main.js.map": "/Symbl.ai-Task/static/js/runtime-main.d3e03286.js.map",
-    "static/js/2.11a80ff8.chunk.js": "/Symbl.ai-Task/static/js/2.11a80ff8.chunk.js",
-    "static/js/2.11a80ff8.chunk.js.map": "/Symbl.ai-Task/static/js/2.11a80ff8.chunk.js.map",
-    "index.html": "/Symbl.ai-Task/index.html",
-    "static/css/main.898bc19b.chunk.css.map": "/Symbl.ai-Task/static/css/main.898bc19b.chunk.css.map",
-    "static/js/2.11a80ff8.chunk.js.LICENSE.txt": "/Symbl.ai-Task/static/js/2.11a80ff8.chunk.js.LICENSE.txt",
-    "static/media/bread.4347433b.jpg": "/Symbl.ai-Task/static/media/bread.4347433b.jpg"
+    "main.css": "/Symblai-Task/static/css/main.898bc19b.chunk.css",
+    "main.js": "/Symblai-Task/static/js/main.ec69c173.chunk.js",
+    "main.js.map": "/Symblai-Task/static/js/main.ec69c173.chunk.js.map",
+    "runtime-main.js": "/Symblai-Task/static/js/runtime-main.422ff892.js",
+    "runtime-main.js.map": "/Symblai-Task/static/js/runtime-main.422ff892.js.map",
+    "static/js/2.11a80ff8.chunk.js": "/Symblai-Task/static/js/2.11a80ff8.chunk.js",
+    "static/js/2.11a80ff8.chunk.js.map": "/Symblai-Task/static/js/2.11a80ff8.chunk.js.map",
+    "index.html": "/Symblai-Task/index.html",
+    "static/css/main.898bc19b.chunk.css.map": "/Symblai-Task/static/css/main.898bc19b.chunk.css.map",
+    "static/js/2.11a80ff8.chunk.js.LICENSE.txt": "/Symblai-Task/static/js/2.11a80ff8.chunk.js.LICENSE.txt",
+    "static/media/bread.4347433b.jpg": "/Symblai-Task/static/media/bread.4347433b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3e03286.js",
+    "static/js/runtime-main.422ff892.js",
     "static/js/2.11a80ff8.chunk.js",
     "static/css/main.898bc19b.chunk.css",
     "static/js/main.ec69c173.chunk.js"
