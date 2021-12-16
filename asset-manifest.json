@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Symblai-Task/static/css/main.f8f4e99e.chunk.css",
+    "main.css": "/Symblai-Task/static/css/main.13e78e12.chunk.css",
     "main.js": "/Symblai-Task/static/js/main.45aad84c.chunk.js",
     "main.js.map": "/Symblai-Task/static/js/main.45aad84c.chunk.js.map",
     "runtime-main.js": "/Symblai-Task/static/js/runtime-main.422ff892.js",
@@ -8,14 +8,14 @@
     "static/js/2.11a80ff8.chunk.js": "/Symblai-Task/static/js/2.11a80ff8.chunk.js",
     "static/js/2.11a80ff8.chunk.js.map": "/Symblai-Task/static/js/2.11a80ff8.chunk.js.map",
     "index.html": "/Symblai-Task/index.html",
-    "static/css/main.f8f4e99e.chunk.css.map": "/Symblai-Task/static/css/main.f8f4e99e.chunk.css.map",
+    "static/css/main.13e78e12.chunk.css.map": "/Symblai-Task/static/css/main.13e78e12.chunk.css.map",
     "static/js/2.11a80ff8.chunk.js.LICENSE.txt": "/Symblai-Task/static/js/2.11a80ff8.chunk.js.LICENSE.txt",
     "static/media/bread.4347433b.jpg": "/Symblai-Task/static/media/bread.4347433b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.422ff892.js",
     "static/js/2.11a80ff8.chunk.js",
-    "static/css/main.f8f4e99e.chunk.css",
+    "static/css/main.13e78e12.chunk.css",
     "static/js/main.45aad84c.chunk.js"
   ]
 }
