@@ -47,7 +47,7 @@ export default class Items extends Component {
                         <div className="col-md-6">
                             <h2 className='ms-5 mt-5 pt-4 fw-bold head'>Peanut Butter-Jelly Sandwich</h2>
                             <div className='mt-4 pb-5'>
-                                <img className='img' src={BreadImage} alt='' width={450} />
+                                <img className='img' src={BreadImage} alt=''/>
                             </div>
                         </div>
                         <div className="col-md-6 mt-5 pt-5 mb-4">

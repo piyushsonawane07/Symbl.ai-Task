@@ -1,11 +1,16 @@
 .img {
     border-radius: 20px;
     margin-left: 45px;
+    width: 450px;
 }
 
 .recipe{
     background-color: #FDFDFF;
     border-radius: 20px;
-    padding-right: 20px;
 }
 
+@media only screen and (max-width:600px) {
+    .img{
+        width: 270px;
+    }
+}
